@@ -1,0 +1,8 @@
+# golang.design/x/hotkey v0.4.1
+## explicit; go 1.17
+golang.design/x/hotkey
+golang.design/x/hotkey/internal/win
+golang.design/x/hotkey/mainthread
+# golang.design/x/mainthread v0.3.0
+## explicit; go 1.16
+golang.design/x/mainthread
